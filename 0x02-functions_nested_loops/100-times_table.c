@@ -22,7 +22,7 @@ void print_times_table(int n)
 				mul = a * b;
 				_putchar(44);
 				_putchar(32);
-				if (mul <=9)
+				if (mul <= 9)
 				{
 					_putchar(32);
 					_putchar(32);
