@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include <unistd.h>
+#include "main.h"
 
 /**
  * main - prints string
@@ -6,8 +7,7 @@
  * Return: 0 (Success)
  */
 
-int main (void)
+int _putchar(char c)
 {
-	printf("_putchar\n");
-	return (0);
+	return (write(1, &c, 1));
 }
