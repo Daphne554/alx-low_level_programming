@@ -3,6 +3,7 @@
 
 /**
  * _islower - Shows 1 if input is lowercase, other case shows 0.
+ * @c: char ASCII code
  *
  * Return: 1 (Success for lowercase) 0 (Success for other)
  */
