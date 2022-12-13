@@ -41,9 +41,9 @@ int main(void)
 			n2 = fn;
 			n22 = (fn2 % 1000000000);
 		}
-		if (((n1 + n2) < 0) && boolean == 1)
-			boolean = 0;
+		if (((n1 + n2) < 0) && bool1 == 1)
+			bool1 = 0;
 	}
 	printf("\n");
-	return (00);
+	return (0);
 }
