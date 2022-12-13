@@ -3,7 +3,6 @@
 
 /**
  * main - print putchar
- * @c: to print
  *
  * Return: 1 (Success)
  */
