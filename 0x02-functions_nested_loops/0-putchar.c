@@ -2,9 +2,10 @@
 #include "main.h"
 
 /**
- * main - prints string
+ * _putchar - writes char c to stdout
+ * @c: to print
  *
- * Return: 0 (Success)
+ * Return: 1 (Success)
  */
 
 int _putchar(char c)
