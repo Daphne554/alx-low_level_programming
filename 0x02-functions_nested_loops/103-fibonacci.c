@@ -5,7 +5,7 @@
  *
  * Return: Always 0.
  */
-int main (void)
+int main(void)
 {
 	long n1, n2, fn, afn;
 
